@@ -4,7 +4,7 @@ const kTempTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
   fontSize: 100.0,
 );
-const apiKey = 'e8dcfc861bf4baa2e51efdbd05283566';
+const apiKey = 'Enter here Your Open Weather Map token ';
 const kMessageTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
   fontSize: 60.0,
